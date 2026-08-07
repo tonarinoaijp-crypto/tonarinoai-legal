@@ -18,5 +18,5 @@ window.LP_CONFIG = {
 
   // PostHog の公開プロジェクトAPIキー（phc_ で始まる文字列に差し替える）
   // 未設定のままでも LP は正常に動作します（計測のみ無効）
-  POSTHOG_KEY: "POSTHOG_KEY_PLACEHOLDER",
+  POSTHOG_KEY: "phc_tAAJYxWxSpCGCJ2YYCM8ARok85Wa2zNdSk3Tp3JA2HUY",
 };
